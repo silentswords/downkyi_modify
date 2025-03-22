@@ -24,7 +24,7 @@
 ## 下载
 
 <p align="left">
-    <a href="https://github.com/leiurayer/downkyi/releases/latest" style="text-decoration:none">
+    <a href="[https://github.com/silentswords/downkyi_modify/releases/tag/v1.0.0]" style="text-decoration:none">
        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/leiurayer/downkyi">
     </a>
     <a href="https://github.com/leiurayer/downkyi/releases/latest" style="text-decoration:none">
