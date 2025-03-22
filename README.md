@@ -48,7 +48,8 @@
 
 如果这个项目对您有很大帮助，并且您希望支持该项目的开发和维护，请随时扫描一下二维码进行捐赠。非常感谢您的捐款，谢谢！
 
-![Alipay.png](https://s2.loli.net/2022/06/04/6LpfinSa5FoZmNB.png)![WeChat.png](https://s2.loli.net/2022/06/04/2yotOSvwmahPdXU.png)
+![3C0BDB0A9F69BD111FE5538144266440](https://github.com/user-attachments/assets/6d33aaba-9a19-4a89-9ef5-e5370839fb49)
+oZmNB.png)
 
 ## 开发
 
